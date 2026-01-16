@@ -4,6 +4,10 @@
 # CSV data files
 *.csv
 
+# Report files
+oura_report_*.html
+*.log
+
 # Python
 __pycache__/
 *.py[cod]
